@@ -1,4 +1,3 @@
-# Najwa-Portofolio
 <!DOCTYPE html>
 <html lang="de">
 <head>
@@ -80,8 +79,8 @@
 </head>
 <body>
   <header>
-    <h1>Hallo, ich bin [Nama Kamu]</h1>
-    <p>Angehende 3D-Designerin auf der Suche nach einem Ausbildungsplatz</p>
+    <h1>Hallo, ich bin Najwa Pelagia Saragih</h1>
+    <p>Angehende Designerin auf der Suche nach einem Ausbildungsplatz</p>
     <nav>
       <a href="#about">Über mich</a>
       <a href="#portfolio">Portfolio</a>
@@ -130,13 +129,12 @@
 
   <section id="contact">
     <h2>Kontakt</h2>
-    <p>Email: deine.email@example.com</p>
-    <p>WhatsApp: +49 123 456 789</p>
-    <p><a href="https://www.behance.net/deinprofil">Mein Behance-Profil</a></p>
+    <p>Email: najwapelagiasaragih@gmail.com</p>
+    <p>WhatsApp: +62 82284603092</p>
   </section>
 
   <footer>
-    <p>&copy; 2025 [Nama Kamu]. Alle Rechte vorbehalten.</p>
+    <p>&copy; 2025 Najwa Pelagia Saragih. Alle Rechte vorbehalten.</p>
   </footer>
 </body>
 </html>
